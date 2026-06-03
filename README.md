@@ -7,3 +7,5 @@ Portuguese:
 <!-- English:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JosePedroMatos/HRH/HEAD?labpath=P5_pt.ipynb) -->
 
+![alt text](qr.png)
+
